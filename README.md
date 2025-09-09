@@ -73,7 +73,7 @@ This project presents a **reinforcement learning**–driven approach using PPO t
 - Achieves **higher throughput** and **spectral efficiency**, with improved energy metrics  
 - Demonstrates strong **adaptability** in dynamic network and traffic conditions
 
-![Learning rate accross models](results/learning_rate_comparision.png)
+![Learning rate accross models](results/learning_rate_comparison.png)
 
 
 ---
